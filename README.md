@@ -18,8 +18,8 @@ The Forecastify is a simple web application that provides real-time weather upda
 
 ## Screenshots
 
-![Screenshot 1](SS/1.png)
-![Screenshot 2](SS/2.png)
+![Screenshot 1](ss/1.png)
+![Screenshot 2](ss/2.png)
 
 ## Usage
 
